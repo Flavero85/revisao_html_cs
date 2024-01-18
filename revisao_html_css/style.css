@@ -1,3 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+
 .botao{
     border: 3px transparent #999;
     height: 75px;
